@@ -18,7 +18,7 @@
   "profile": {
     "name": "typicode"
   },
-  "accounts": [
+  "acc": [
     { "_id": 1, "name": "Lannisters", "balance": 1189.78 },
     { "_id": 2, "name": "Starks", "balance": 567.71 },
     { "_id": 3, "name": "Baratheons", "balance": 31.26 },
