@@ -54,7 +54,7 @@
     { "_id": 20, "accountId": 8, "type": "deposit", "amount": 483.56, "name": "Account Opened" },
     { "_id": 21, "accountId": 9, "type": "deposit", "amount": 1035.83, "name": "Account Opened" },
     { "_id": 22, "accountId": 10, "type": "deposit", "amount": 0.00, "name": "Account Opened" },
-    { "_id": 23, "accountId": 10, "type": "withdraw", "amount": 134.34, "name": "Raiding Repayment" }
+    { "_id": 23, "accountId": 10, "type": "deposit", "amount": 134.34, "name": "Raiding Repayment" }
   ],
   "houses" : [
     {
